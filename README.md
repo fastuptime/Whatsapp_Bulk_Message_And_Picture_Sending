@@ -9,6 +9,8 @@ Whatsapp Bulk Message And Picture Sending
 - Her numara kontroldek geçecektir checki isterseniz kaldırabilirsiniz.
 - Rasgele mesajların gönderilmesi ayarlanabilir.
 
+  https://github.com/pedroslopez/whatsapp-web.js/pull/2816#issuecomment-2204732956
+
 ## Screenshots
 
 ![image](https://github.com/fastuptime/Whatsapp_Bulk_Message_And_Picture_Sending/assets/63351166/c789c3f5-6054-43e8-86ed-1a21e41448f8)
